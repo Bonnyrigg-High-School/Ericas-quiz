@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the main purpose of advertising in commerce?",
+    "choice1": "Promote products or services",
+    "choice2": "Confuse customers",
+    "choice3": "Hide products flaws",
+    "choice4": "Reduce brand visibility",
+    "answer": 1
+  },
+  {
+    "question": "What is EFPTOS?",
+    "choice1": "An international stock exchange platform",
+    "choice2": "A type of cryptocurrency used for online shopping",
+    "choice3": "A government tax collection system",
+    "choice4": "A card payment system used at retail checkout",
+    "answer": 4
+  },
+  {
+    "question": "What does GDP stand for?",
+    "choice1": "Gross Domestic Product",
+    "choice2": "Government Debt Position",
+    "choice3": "General Domestic Price",
+    "choice4": "Global Development Plan",
+    "answer": 1
+  },
+  {
+    "question": "Which financial statment shows a company's financial position at a specific point in time?",
+    "choice1": "Income Statement",
+    "choice2": "Cash Flow Statement",
+    "choice3": "Statement of Retained Earnings",
+    "choice4": "Balance Sheet",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is a fixed cost?",
+    "choice1": "Raw materials",
+    "choice2": "Sales commission",
+    "choice3": "Electricity usage",
+    "choice4": "Rent",
+    "answer": 4
+  },
+  {
+    "question": "What is the primary purpose of marketing",
+    "choice1": "To reduce production cost",
+    "choice2": "To manage financial records",
+    "choice3": "To identify and satisfy customer needs",
+    "choice4": "To increase employee satisfaction",
+    "answer": 3
+  },
+  {
+    "question": "Which document is used to record credit sales?",
+    "choice1": "Receipt",
+    "choice2": "Cheque",
+    "choice3": "Invoice",
+    "choice4": "Voucher",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a direct tax?",
+    "choice1": "Sales tax",
+    "choice2": "Income tax",
+    "choice3": "Excise duty",
+    "choice4": "Customs duty",
+    "answer": 2
+  },
+{
+    "question": "What does SWOT analysis stand for?",
+    "choice1": "Startegy, Work, Opportunity, Threat",
+    "choice2": "Strength, Weakness, Organisation, Threats",
+    "choice3": "Strengths, Weaknesses, Opportunities, Threats",
+    "choice4": "System, Work, Output, Target",
+    "answer": 3
+  },
+{
+    "question": "Which of the following is a non-economic activity?",
+    "choice1": "Teaching in a school",
+    "choice2": "Working in a factory",
+    "choice3": "Cooking for family",
+    "choice4": "Selling groceries",
+    "answer": 3
+  },
+  {
+    "question": "What is it meant by 'market segregation'?",
+    "choice1": "Dividing market into distinct group of buyers",
+    "choice2": "Dividing employess into teams",
+    "choice3": "Dividing products into categories",
+    "choice4": "Dividing profits among shareholders",
+    "answer": 1
+  },
+{
+    "question": "Which of the following is a feature of partnership?",
+    "choice1": "Unlimited liability",
+    "choice2": "Sharing of profits and losses",
+    "choice3": "One-man control",
+    "choice4": "Separate legal entity",
+    "answer": 2
+  },
+{
+    "question": "What is the full form of GST?",
+    "choice1": "Goods and Services Transfer",
+    "choice2": "General Sales Tax",
+    "choice3": "Government Sales Tariff",
+    "choice4": "Good and Services Tax",
+    "answer": 4
+  },
+  {
+    "question": "What is it meant by 'capital' in business?",
+    "choice1": "Buildings and land",
+    "choice2": "Raw materials",
+    "choice3": "Finished Gooods",
+    "choice4": "Money invested in the business",
+    "answer": 4
+  },
+  {
+    "question": "What is the term for buying goods in large quantities for resale?",
+    "choice1": "Retailing",
+    "choice2": "Manufacturing",
+    "choice3": "Wholesaling",
+    "choice4": "Importing",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a feature of a public limited company?",
+    "choice1": "Shares traded on stock exchange",
+    "choice2": "Unlimited liability",
+    "choice3": "Owned by one person",
+    "choice4": "No legal existence",
+    "answer": 1
+  },
+{
+    "question": "What does the term 'liquidity' refer to in finance?",
+    "choice1": "Level of debt",
+    "choice2": "Ability to convert assets into cash quickly",
+    "choice3": "Profitability of a business",
+    "choice4": "Ability to generate revenue",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a function of an entrepreneur?",
+    "choice1": "Auditing",
+    "choice2": "Legislating",
+    "choice3": "Risk-taking and innovation",
+    "choice4": "Tax collection",
+    "answer": 3
+  },
+  {
+    "question": "What is the meaning of 'debit' in accounting?",
+    "choice1": "Increase in liability",
+    "choice2": "Increase in income",
+    "choice3": "Decreases in assets",
+    "choice4": "Increases in assets or expenses",
+    "answer": 4
+  },
+{
+    "question": "Which of the following is a source of long-term finance?",
+    "choice1": "Debentures",
+    "choice2": "Trade credit",
+    "choice3": "Cash sales",
+    "choice4": "Bank overdraft",
+    "answer": 1
+  }
+]
