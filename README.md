@@ -1,0 +1,1 @@
+Create a "Build a Quiz Website" folder and type in your code into the 11 files. After this, download the Live Server and go onto index.html, and click on "Open with live server", to see changed into your code. 
